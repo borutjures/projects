@@ -24,7 +24,7 @@ Please use GitHub Issues to ask questions and requesting additional explanations
 
 ### Changed code
 
-Please put changed code in comments (//) and add an explanation why it was changed.
+Please put changed code in comments and add an explanation why it was changed.
 
 Example:
 
