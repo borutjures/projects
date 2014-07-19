@@ -2,9 +2,15 @@ Common instructions for working on projects.
 
 ## Functional Specifications
 
-The functional specification document and parameters are not meant to be 100% exhaustive, but are meant to give a very good snapshot of how the product will work and the high level functionalities. As the programmer/developer you will be responsible for making the product work fluidly and without glitches. You are responsible for finding the things I didn’t think about, bringing them to my attention and moving forward.
+The functional specification document and parameters are not meant to be 100% exhaustive, 
+but are meant to give a very good snapshot of how the product will work and the high level functionalities. 
+As the programmer/developer you will be responsible for making the product work fluidly and without glitches. 
+You are responsible for finding the things I didn’t think about, bringing them to my attention and moving forward.
 
-Just because something is not in the functional specifications document does not mean it doesn’t need to be completed. I have provided a description explaining the overall purpose and functionality of the product. It is your responsibility to review the specifications and ensure that the product sticks to the overall vision and purpose and works the way described.
+Just because something is not in the functional specifications document does not mean it doesn’t need to be completed. 
+I have provided a description explaining the overall purpose and functionality of the product. 
+It is your responsibility to review the specifications and ensure that the product sticks 
+to the overall vision and purpose and works the way described.
 
 
 ## Working with GitHub
