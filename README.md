@@ -20,6 +20,20 @@ Developer must write clear commit messages.
 Please use GitHub Issues to ask questions and requesting additional explanations.
 
 
+## Code
+
+### Changed code
+
+Please put changed code in comments (//) and add an explanation why it was changed.
+
+Example:
+
+```javascript
+// bj; 2014-07-19; Get div.style directly. var div = document.getElementById('fld_'+idx);
+var divstyle = document.getElementById('fld_'+idx).style;
+```
+
+
 ## Applying
 
 Before applying, please make sure you:
