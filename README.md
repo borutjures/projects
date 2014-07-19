@@ -1,4 +1,51 @@
-projects
-========
+Common instructions for working on projects.
 
-Common resources for projects
+## Functional Specifications
+
+The functional specification document and parameters are not meant to be 100% exhaustive, but are meant to give a very good snapshot of how the product will work and the high level functionalities. As the programmer/developer you will be responsible for making the product work fluidly and without glitches. You are responsible for finding the things I didn’t think about, bringing them to my attention and moving forward.
+
+Just because something is not in the functional specifications document does not mean it doesn’t need to be completed. I have provided a description explaining the overall purpose and functionality of the product. It is your responsibility to review the specifications and ensure that the product sticks to the overall vision and purpose and works the way described.
+
+
+## Working with GitHub
+
+Developer is expected to fork a GitHub branch he is working on (link will be provided).
+
+All the work on the project must be submited through pull requests.
+
+Developer must write clear commit messages.
+
+### Using Issues
+
+Please use GitHub Issues to ask questions and requesting additional explanations.
+
+
+## Applying
+
+Before applying, please make sure you:
+
+- Are an extremely talented software developer.
+- Love to develop good looking, high quality software.
+- Like to discover new technologies and learn new things.
+- Can design and implement complex hierarchical class models.
+- Would like to start a long term employment commitment.
+- Enjoy being part of a team, with the freedom of working from home.
+- Love to pitch new idea's (new technology or new business concepts).
+- Can work independently and solve problems by yourself, but...
+- ...also know when it's time to call in your teammates to help you.
+- Love to think about how we can improve our online collaboration.
+- Take pride in your work and working with other talent.
+- Read, write and speak English fluently.
+- Are available for mail / chat / phone / video calls during office ours (GMT+1).
+- Possess a stable broadband internet connection.
+- Possess a quiet working environment.
+- Possess a good development machine.
+
+In order to apply, please submit:
+
+- At least one or more relevant example projects.
+- A picture of your working environment.
+- Specifications of your development machine.
+- Start your application with the words "It's me!" otherwise I will assume you didn't read this and are just sending a template.
+- Your monthly fee based on full time work (+/- 40 hours a week).
+- When you are available and for how long.
