@@ -45,6 +45,7 @@ var divstyle = document.getElementById('fld_'+idx).style;
 Before applying, please make sure you:
 
 - Are an extremely talented software developer.
+- I like to believe I'm a good developer too. I expect you to be better.
 - Love to develop good looking, high quality software.
 - Like to discover new technologies and learn new things.
 - Can design and implement complex hierarchical class models.
