@@ -12,6 +12,9 @@ I have provided a description explaining the overall purpose and functionality o
 It is your responsibility to review the specifications and ensure that the product sticks 
 to the overall vision and purpose and works the way described.
 
+Please notify me before applying in case you find that there is something missing in the 
+functional specifications document.
+
 
 ## Working with GitHub
 
@@ -70,3 +73,12 @@ In order to apply, please submit:
 - Start your application with the words "It's me!" otherwise I will assume you didn't read this and are just sending a template.
 - Your monthly fee based on full time work (+/- 40 hours a week).
 - When you are available and for how long.
+
+## Some quotes I like
+
+* “Quality saves time.”; First things first
+* It takes it ten years to make it over night.
+* If you don’t have time to do it right, when will you have time to do it over?
+* “By the elegance of their programs professionals are distinguished from amateurs.” – Dijkstra: “A Method of Programming“
+* “Programming is the art of instructing a computer to perform a task. The key to accomplishing this feat is learning to think like a computer. Programming is one of the most mentally challenging tasks a human being can perform, but nothing compares to the satisfaction of engineering a piece of code to solve a specific problem.” – Steve Pavlina
+* It‘s hard enough to find an error in your code when you‘re looking for it; it‘s even harder when you‘ve assumed your code is error-free. – Steve McConnell, Code Complete
