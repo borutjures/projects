@@ -1,6 +1,7 @@
 Common instructions for working on projects.
 
-## Functional Specifications
+Functional Specifications
+-------------------------
 
 The functional specification document and parameters are not meant to be 100% exhaustive, 
 but are meant to give a very good snapshot of how the product will work and the high level functionalities. 
@@ -16,7 +17,8 @@ Please notify me before applying in case you find that there is something missin
 functional specifications document.
 
 
-## Working with GitHub
+Working with GitHub
+-------------------
 
 Developer is expected to fork a GitHub branch he is working on (link will be provided).
 
@@ -29,7 +31,8 @@ Developer must write clear commit messages.
 Please use GitHub Issues to ask questions and requesting additional explanations.
 
 
-## Code
+Code
+----
 
 ### Changed code
 
@@ -43,7 +46,8 @@ var divstyle = document.getElementById('fld_'+idx).style;
 ```
 
 
-## Applying
+Applying
+--------
 
 Before applying, please make sure you:
 
@@ -74,7 +78,8 @@ In order to apply, please submit:
 - Your monthly fee based on full time work (+/- 40 hours a week).
 - When you are available and for how long.
 
-## Some quotes I like
+Some quotes I like
+------------------
 
 * “Quality saves time.”; First things first
 * It takes it ten years to make it over night.
