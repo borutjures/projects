@@ -74,7 +74,7 @@ In order to apply, please submit:
 - At least one or more relevant example projects.
 - A picture of your working environment.
 - Specifications of your development machine.
-- Start your application with the words "It's me!" otherwise I will assume you didn't read this and are just sending a template.
+- Start your application with the words "Hi! It's me!" otherwise I will assume you didn't read this and are just sending a template.
 - Your monthly fee based on full time work (+/- 40 hours a week).
 - When you are available and for how long.
 
